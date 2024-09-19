@@ -1,4 +1,4 @@
--👋 Hi, I’m @anushrisuresh, final year undergraduate student at NIT-T.
+-👋 Hi, I’m @anushrisuresh, first year Masters student at Johns Hopkins University.
 
 <!---
 anushrisuresh/anushrisuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
